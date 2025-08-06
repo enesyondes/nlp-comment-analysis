@@ -18,3 +18,30 @@ Bu proje, online pazar yerlerinden alınan kullanıcı yorumlarını analiz eder
 - **Tkinter** (GUI)
 - **NLP / Tokenization**
 - **Sklearn**
+
+# 📝 Comment Analysis - Natural Language Processing Application
+
+This project is a **Natural Language Processing (NLP)** application that analyzes user reviews from online marketplaces and classifies them as **positive** or **negative**.
+
+---
+
+## 🚀 Project Features
+- Analyzes user input comments and classifies them as positive or negative.
+- Trained using a **Machine Learning** model.
+- Includes a simple and user-friendly interface developed with **Tkinter**.
+- The model is built using **tokenization** and **word frequency** techniques.
+
+---
+
+## 🖼 Interface Screenshots
+| Main Screen | Positive Comment | Negative Comment |
+|-------------|-----------------|-----------------|
+| ![Main](screenshots/main.png) | ![Positive](screenshots/positive.png) | ![Negative](screenshots/negative.png) |
+
+---
+
+## 🔍 Technologies Used
+- **Python**
+- **Tkinter (GUI)**
+- **NLP / Tokenization**
+- **Scikit-learn**
