@@ -1,3 +1,4 @@
+# TR
 # 📝 Yorum Analizi - Doğal Dil İşleme Uygulaması
 
 Bu proje, online pazar yerlerinden alınan kullanıcı yorumlarını analiz ederek **olumlu** veya **olumsuz** olarak sınıflandıran bir **Doğal Dil İşleme (NLP)** uygulamasıdır.
@@ -19,6 +20,7 @@ Bu proje, online pazar yerlerinden alınan kullanıcı yorumlarını analiz eder
 - **NLP / Tokenization**
 - **Sklearn**
 
+# EN
 # 📝 Comment Analysis - Natural Language Processing Application
 
 This project is a **Natural Language Processing (NLP)** application that analyzes user reviews from online marketplaces and classifies them as **positive** or **negative**.
